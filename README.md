@@ -1,11 +1,11 @@
 
-# Med-Jobs
-An online platform where medical staffs can keep record of their medical professional details for employment purpose or references.
+# LaravelMultAuth
+Multiple user authentication using laravel.
 
 ## Set up
 To set up this project, first clone the repositiory
 ```bash
-$ git clone https://github.com/rexsteroxy/medconnect.git
+$ git clone https://github.com/rexsteroxy/laravelMultAuth.git
 ```
 
 Change your working directory into the project directory
