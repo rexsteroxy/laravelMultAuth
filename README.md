@@ -10,7 +10,7 @@ $ git clone https://github.com/rexsteroxy/laravelMultAuth.git
 
 Change your working directory into the project directory
 ```bash
-$ cd med-jobs
+$ cd folder
 ```
 
 Then install dependencies using [Composer](https://getcomposer.org/doc/00-intro.md)
